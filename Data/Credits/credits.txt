@@ -1,0 +1,10 @@
+
+---------------------------
+Creator: Refuzzle
+Asset: Winter Birds.png
+Website: https://opengameart.org/content/winter-birds
+---------------------------
+Creator: Daniel Cook, Jetrel, Saphy (TMW), Zabin, Bertram
+Asset: mountain_landscape.png
+Website: https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-resized-to-32x32-with-additions
+---------------------------
